@@ -1,0 +1,9 @@
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\VertGird.Form1.resources
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\VertGird.Properties.Resources.resources
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\bin\Debug\VertGird.exe
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\bin\Debug\VertGird.pdb
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\VertGird.exe
+C:\Users\melf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Windows-Vertical-Grid\obj\x86\Debug\VertGird.pdb
